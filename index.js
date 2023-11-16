@@ -8,6 +8,8 @@ let userSubscriptions = [
 ];
 
 console.log('Test data - User Subscriptions:');
+console.log('App Running');
+
 /**
  * This will schedule the subscription to check 3 times a day.
  * Right now, it is set to check to run cron job every 5 seconds for testing purpose
